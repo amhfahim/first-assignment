@@ -1,0 +1,176 @@
+.title{
+   margin:5px 140px ;
+   align-items: center;
+  
+
+
+ width: 1320px;
+height: 600px;
+flex-shrink: 0;background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+
+
+
+
+
+border-radius: 16px;
+      background-image:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),
+
+      url('Banner\ Image.png');  
+  
+}
+
+ .hn{
+    padding: 177px 530px 0px;
+    color: #FFF;
+text-align:center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+ 
+}
+.hp{
+    width: 632px;
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px; 
+font-style: normal;
+font-weight: 900;
+line-height: 95px;
+margin: 0px 344px 190px;
+;
+
+}
+.section1{
+   margin: 120px 400px;
+   font-family: Inter;
+}
+.div2{
+    color: #F00;
+text-align: center;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 48px;
+}
+.div3{
+    color: #F00;
+text-align: center;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-bottom: 0px;
+}
+.div4{
+    color: #070211;
+text-align: center;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 48px;
+}
+.img2{
+    width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+fill: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.section2{
+    margin-left: 140px;
+    margin-right: 140px;
+}
+.bg1{
+    background-image:linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('Vectorrr.png');
+    
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+display: flex;
+margin-bottom: 120px;
+}
+.wp{
+    color: #FFF;
+    width: 642px;
+    padding: 70px 95px 5px 126px;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+}
+.do{
+    color: rgba(255, 255, 255, 0.80);
+    width: 697px;
+    padding: 0 39px 48px 126px;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+.join{
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+padding: 0px 600px 142px 158px;
+}
+.img3{
+    padding: 68px 138px 68px 30px;
+}
+.div7{
+    width: 1320px;
+height: 482px;
+flex-shrink: 0;
+margin-bottom: 120px;
+background-image:  linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+
+}
+.time{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 31px;
+font-style: normal;
+font-weight: 600;
+line-height: 40px; /* 175% */
+text-transform: capitalize;
+padding-bottom: 2px;
+}
+.orange{
+    color: #F00;
+}
+.div8{
+    padding: 100px 385px 48px;
+}
+.btn{
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+display: inline-flex;
+padding: 16px 32px;
+border-radius: 8px;
+background: #F00;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border: none;
+}
+.div9{
+    padding: 0 576px 110px;
+}
